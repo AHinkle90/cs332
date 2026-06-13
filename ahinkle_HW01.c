@@ -1,11 +1,3 @@
-/*
-To compile:
-gcc -o hw01 blazerid_HW01.c
-
-To run:
-./hw01
-*/
-
 #include <stdio.h>
 #include <stdbool.h>
 #include <string.h>
