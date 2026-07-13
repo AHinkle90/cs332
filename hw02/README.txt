@@ -1,4 +1,3 @@
-Description:
 This program allows for searching through a file hierarchy 
 and displays files and directories.
 
@@ -20,11 +19,7 @@ To compile:
 make
 
 To run:
-./search [command] [size] [depth]
-
-Makefile commands:
-make
-Compiles ahinkle_hw02.c and creates an executable named search.
+./search [options] [directory]
 
 make clean
 Removes the executable.  
